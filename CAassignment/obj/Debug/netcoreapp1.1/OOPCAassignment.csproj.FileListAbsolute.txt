@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\OOP CA assignment\CAassignment\bin\Debug\netcoreapp1.1\OOPCAassignment.deps.json
+C:\Users\admin\Documents\OOP CA assignment\CAassignment\bin\Debug\netcoreapp1.1\OOPCAassignment.runtimeconfig.json
+C:\Users\admin\Documents\OOP CA assignment\CAassignment\bin\Debug\netcoreapp1.1\OOPCAassignment.runtimeconfig.dev.json
+C:\Users\admin\Documents\OOP CA assignment\CAassignment\obj\Debug\netcoreapp1.1\OOPCAassignment.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\OOP CA assignment\CAassignment\obj\Debug\netcoreapp1.1\OOPCAassignment.AssemblyInfo.cs
